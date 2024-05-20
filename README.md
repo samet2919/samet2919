@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*KbYaeKKyTGzNTKjIiBzb3w.png)
+
 <h1 align="center">Hi 👋, I'm Abdulsamet Unlu</h1>
 <h3 align="center">A passionate Game developer from Turkey</h3>
 
