@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abdulsamet Unlu</h1>
+<h1 align="center">I'm Abdulsamet Unlu</h1>
 <h3 align="center">A passionate Game developer from Turkey</h3>
 
 - 📫 How to reach me **abdulsametunlu29@gmail.com**
