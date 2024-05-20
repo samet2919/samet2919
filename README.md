@@ -1,7 +1,8 @@
-
-<h1 align="center">I'm Abdulsamet Unlu</h1>
-<h3 align="center">A passionate Game developer from Turkey</h3>
-
+## I'm Abdulsamet Unlu
+- :student:I am currently a student at Beykent University.
+- :house:Currently Working on Java language and game development
+- :arrow_right:Ask me about Java, Spring Framework,HTML and Kotlin
+- :hash:I’m looking to collaborate on anything related to tech
 - 📫 How to reach me **abdulsametunlu29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
